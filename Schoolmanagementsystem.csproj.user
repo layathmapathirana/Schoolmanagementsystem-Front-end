@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Academic sign in .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AcademicStaffProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add student%27s marks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Addacademicdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Addnonacademicdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Addparentdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Addstudentdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Addstudentmarks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Addstudenttimetable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddYearschedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin sign in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="non academic signin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="parent sign in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student sign in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mark Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Non academic profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Parent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="signform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registerform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="studentprofile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="timetable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Year schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
